@@ -2,7 +2,7 @@
 ## COURSE PROJECT CODE BOOK
 
 The following table describes the variables of the tidy data set, submitted in task 5 of the assignment. For each variable there is information on 
-the data type, measurement domain (time or frequency), a description of the variable and the range of values.
+the data type, measurement domain (time or frequency), a description of the variable and the range of values. The units of acceleration are multiples of g and the units of angular velocity are radians/second.
 
 N°	VARIABLE NAME					DATA TYPE	DOMAIN		DESCRIPTION														RANGE OF VALUES
 
