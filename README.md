@@ -1,7 +1,9 @@
-## Course N° 3 - Getting and Cleaning Data
+## Course NÂ° 3 - Getting and Cleaning Data
 ## Course Project
 
 The R script run_analysis.R reads several text data files and processes the data to produce a tidy data set, stored in a text file named CourseProject_Task5.txt.
+
+The variables are explained in the documents CodeBook.md and CodeBook.pdf. The latter is easier to read.
 
 The script performs the following steps:
 
